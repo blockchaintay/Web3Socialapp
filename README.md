@@ -1,2 +1,2 @@
 # Web3Socialapp
-Short form Video app 
+WEBBED: A Short form Video app built on the blockchain
